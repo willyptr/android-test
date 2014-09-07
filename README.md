@@ -1,4 +1,3 @@
-android-test
-============
+Lesson 1
 
-for test
+TextView & EditText exercise
